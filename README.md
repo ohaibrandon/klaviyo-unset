@@ -3,7 +3,7 @@ You can use this Python script to unset the values of default profile properties
 
 ## What does unsetting do?
 
-Unsetting a profile property removes both the key and value from the profiles that you run this script for. Only exception is Klaviyo's default properties (ones with a `$` prefix). When unsetting a Klaviyo property, only the values are unset. Further, not all Klaviyo properties are unsettable (i.e. `$longitude` and `$latitude`).
+Unsetting a profile property removes both the key and value from the profiles that you run this script for. Only exception is Klaviyo's default properties (ones with a `$` prefix). When unsetting a Klaviyo property, only the values are unset.
 
 **Please note, this does not work on event properties.**
 
